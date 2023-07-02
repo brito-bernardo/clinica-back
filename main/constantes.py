@@ -1,0 +1,1 @@
+SEXCHOICES = (('M', 'Masculino'), ('F', 'Feminino'))
